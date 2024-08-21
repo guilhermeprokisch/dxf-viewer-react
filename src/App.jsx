@@ -83,7 +83,7 @@ function App() {
             </Button>
             <IconButton
               color="inherit"
-              href="https://github.com/vagran/dxf-viewer"
+              href="https://github.com/guilhermeprokisch/dxf-viewer-react"
               target="_blank"
               rel="noopener noreferrer"
             >
